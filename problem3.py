@@ -1,2 +1,4 @@
-name = "devashish is a good boy  and"
-print(name.find("good"))
+s = set()
+s.add(18)
+s.add("18")
+print(s)

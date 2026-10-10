@@ -1,2 +1,8 @@
-name = input("Enter your name: ")
-print(f"Hello, {name}! Welcome to the program.")
+words ={
+  "madad" : "help",
+  "cat"   : "bille",
+   "dog"  :  "kutta"
+}
+
+word = input("enter the word meanings you want:")
+print(words[word])

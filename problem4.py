@@ -1,2 +1,7 @@
-name = "devashish is a good boy  and"
-print(name.replace("good","awesome"))
+s = set()
+s.add(20)
+s.add(20.0)
+s.add('20')
+
+print(len(s)) # length of s after these operations? 
+print(s)
