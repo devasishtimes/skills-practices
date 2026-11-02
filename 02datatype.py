@@ -1,0 +1,10 @@
+a = 1 # a is an integer
+b = 5.22 # b is a float
+c = 1j # c is a complex number
+d = "Hello World" # d is a string
+e = True # e is a boolean
+f = ["apple", "banana", "cherry"] # f is a list
+g = ("apple", "banana", "cherry") # g is a tuple    
+h = {"name" : "John", "age" : 36} # h is a dictionary
+i = {"apple", "banana", "cherry"} # i is a set
+j = None # j is a NoneType
